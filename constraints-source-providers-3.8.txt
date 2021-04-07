@@ -52,7 +52,6 @@ async-generator==1.10
 async-timeout==3.0.1
 atlasclient==1.0.0
 attrs==20.3.0
-aws-sam-translator==1.34.0
 aws-xray-sdk==2.6.0
 azure-batch==10.0.0
 azure-common==1.1.26
@@ -93,7 +92,6 @@ celery==4.4.7
 certifi==2020.12.5
 cffi==1.14.5
 cfgv==3.2.0
-cfn-lint==0.45.0
 cgroupspy==0.1.6
 chardet==3.0.4
 click==7.1.2
@@ -211,12 +209,9 @@ jira==2.0.0
 jmespath==0.10.0
 json-merge-patch==0.2
 jsondiff==1.2.0
-jsonpatch==1.28
 jsonpath-ng==1.5.2
 jsonpickle==2.0.0
-jsonpointer==2.0
 jsonschema==3.2.0
-junit-xml==1.9
 jupyter-client==6.1.11
 jupyter-core==4.7.1
 jwcrypto==0.8
@@ -253,7 +248,6 @@ nbclient==0.5.2
 nbformat==5.1.2
 neo4j==4.2.1
 nest-asyncio==1.5.1
-networkx==2.5
 nodeenv==1.5.0
 nteract-scrapbook==0.4.2
 ntlm-auth==1.5.0
@@ -382,7 +376,6 @@ sphinxcontrib-redoc==1.6.0
 sphinxcontrib-serializinghtml==1.1.4
 sphinxcontrib-spelling==5.2.1
 spython==0.0.85
-sshpubkeys==3.3.1
 sshtunnel==0.1.5
 starkbank-ecdsa==1.1.0
 statsd==3.3.0
@@ -401,6 +394,7 @@ toolz==0.11.1
 tornado==6.1
 tqdm==4.57.0
 traitlets==5.0.5
+trino==0.305.0
 typed-ast==1.4.2
 typing-extensions==3.7.4.3
 typing-inspect==0.6.0
